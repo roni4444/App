@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Routine App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="add_new_habit">Add New Habit</string>
+    <string name="submit_habit">Add Habit to my list</string>
+
+    <string name="my_list_of_habits">My list of habits</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="press_to_add_new_habit">Press to add new habit</string>
+    <string name="name_of_habit">Name of habit</string>
+    <string name="when_to_follow">When to follow</string>
+    <string name="what_i_want_to_achieve">What i want to achieve</string>
+    <string name="reset">Reset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_habit_info">Go to Habit Info</string>
+    <string name="new_habit">New Habit</string>
+    <string name="estimated_end_time">Estimated end time</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="description">Description</string>
+    <string name="no_description">No description</string>
+    <string name="remaining_habits_to_fulfil">Remaining habits to fulfil</string>
+    <string name="end_image">End Image</string>
+</resources>
